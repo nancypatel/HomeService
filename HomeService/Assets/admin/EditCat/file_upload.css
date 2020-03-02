@@ -1,0 +1,50 @@
+
+
+.pip {
+    display: inline-block;
+    margin: 10px 10px 0 0;
+}
+
+.imageThumb {
+    max-height: 75px;
+    border: 1px solid #CCCCCC;
+    padding: 1px;
+    cursor: pointer;
+}
+
+.btn-white {
+    background-clip: padding-box;
+    background-color: #FFFFFF;
+    border-color: rgba(150, 160, 180, 0.3);
+    box-shadow: 0 -1px 1px rgba(0, 0, 0, 0.05) inset;
+}
+.btn-white {
+    box-shadow: none !important;
+}
+
+.btn.btn-file>input[type='file']{
+position:static!important;
+opacity:1!important;
+font-size:14px!important;
+
+}
+
+.remove {
+font-size:12px;
+    display: block;
+    background: #444;
+    border: 1px solid black;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+	padding:2px;
+}
+
+.remove i{
+color:#CC0000;
+}
+
+.badge{
+padding:8px;
+margin:3px;
+}

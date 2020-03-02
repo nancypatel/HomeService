@@ -1,0 +1,104 @@
+a{
+color:#333333;
+}
+.clear{
+clear:both;
+}
+
+.form-inline .form-group{
+padding-right:1%;
+}
+
+
+.form-row {
+    padding-bottom: 4%;
+}
+
+.not_read{
+background:#fff;
+}
+
+
+.already_read{
+background:#f4f4f4;
+}
+
+
+.badge-primary {
+    color: #fff;
+    background-color: #007bff;
+}
+.badge-secondary {
+    color: #fff;
+    background-color: #6c757d;
+}
+
+.badge-success {
+    color: #fff;
+    background-color: #28a745;
+}
+
+.badge-danger {
+    color: #fff;
+    background-color: #dc3545;
+}
+.badge-warning {
+    color: #212529;
+    background-color: #ffc107;
+}
+
+.badge-info {
+    color: #fff;
+    background-color: #17a2b8;
+}
+
+.badge-light {
+    color: #212529;
+    background-color: #f8f9fa;
+}
+
+.badge-dark {
+    color: #fff;
+    background-color: #343a40;
+}
+
+.fas,.far{
+padding-right:2%!important;
+}
+
+.fa-circle{
+font-size:10px!important;
+}
+
+.main-header .sidebar-toggle:before {
+    content: ""!important;
+}
+
+button{
+background:none;
+border:none;
+}
+
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #3c8dbc!important;
+    border: 1px solid #3c8dbc!important;
+    
+}
+
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    color: #fff!important;
+   
+}
+
+.table_heading{
+background:#333333!important;
+color:#FFFFFF!important;
+}
+
+.info-box {
+ 
+    background: #e0e7f3;
+    
+}

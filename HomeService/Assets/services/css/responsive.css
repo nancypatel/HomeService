@@ -1,0 +1,443 @@
+@media screen and (max-width:768px){
+
+.menu_outside_bg{
+width:100%; height:100%; background:#000000; opacity:0.4; position:absolute; left:0px; display:none; z-index:10999
+}
+
+.rcBtnFixed {
+  
+    bottom: 34%;
+}	
+.hide_on_mobile{
+display:none;
+}
+
+.container ,.container-fluid{
+width:100%!important;
+max-width:100%!important;
+overflow:hidden!important;
+}
+
+
+.home_review_box_text1 {
+     
+    height: auto!important;
+	
+}	
+
+.slick-slide {
+    margin: 0px 7px!important;
+}
+
+.home_slider img {
+    height: 73px;
+ }
+
+.modal_services_left .nav-link:not(.active){
+display:none;
+}
+
+.modal_services_left .active{
+padding-left:14%!important;
+}
+
+.modal_services_left{
+position:relative;
+}
+
+.modal_services_left .nav-link .img{
+display:none;
+}
+
+.home_pop2_close{
+display:block!important;
+top:32%;
+left:7%;
+position:absolute;
+}
+
+
+ .error_modal_container {
+      bottom: 10px;
+ }
+ 
+ body.modal-open {
+	  overflow: hidden!important;
+    position: fixed!important;
+}
+
+.modal-header{
+position:absolute;
+top:0px;
+left:0px;
+width:100%;
+height:60px;
+}
+
+.modal-footer{
+position: absolute;
+    bottom: 0px;
+    width: 100%;
+	left:0px;
+	background:#fff;
+	}
+
+
+button.btn.btn-secondary.modal_next_btn.modal_next_prev_btn {
+    height: 56px;
+}
+ 
+
+
+
+
+.modal-dialog{
+margin:0px!important;
+}
+
+.modal-open .modal{
+background:#fff!important;
+}
+
+ 
+
+.name_field_container .name_title_container {
+    top: 6px!important;
+    
+}
+
+
+.cat_icon3{
+display:none!important;
+}
+
+.image_on_mobile{
+display:block!important;
+}
+
+
+.logo_with_navbar{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+	background:none;
+}
+
+.after_header{
+padding-top:0px;
+}
+
+.home_banner_bg{
+background:#0093dd;
+    padding-bottom: 8%;
+    height: auto;
+	background-size: 100% 100%!important;
+}
+
+.no_pl_mobile{
+padding-left:0px!important;
+}
+ 
+.navbar{
+margin-top:16%;
+padding-right:0px;
+} 
+
+.home_search_container{
+width:100%;
+padding-top:3%!important;
+}
+
+.home_search_container input{
+margin-top:7px!important;
+ }
+ 
+ 
+  
+
+.heading_bottom_home_banner{
+font-size:14px!important;
+}
+
+
+.icon_home_row h3 {
+  
+    font-weight: normal;
+}
+
+
+.home_r3{
+background:#fff;
+border-top:1px solid #ddd!important;
+border-bottom:1px solid #ddd!important;
+
+margin-top:6%;
+padding:0px!important;
+ 
+ 
+}
+
+.home_r3 .icon_home{
+padding:10px;
+}
+
+.icon_home_row .col-4{
+border-right:1px solid #ddd;
+border-bottom:1px solid #ddd;
+}
+
+
+.icon_home_row .col-4:nth-child(3n) {
+    border-right: none;
+}
+
+ 
+.home_icon_1,.home_icon_2,.home_icon_3{
+text-align:center!important;
+width:100%;
+} 
+
+.text1{
+text-align:center;
+}
+ 
+ .center_in_mobile{
+ text-align:center;
+ }
+ 
+  .footer1 ul ,.footer2 ul,.footer3 ul{
+  padding:0px;
+  margin:0px;
+  }
+  
+ .footer1 ul li a , .footer2 ul li a , .footer3 ul li a{
+ font-size:12px;
+ }
+ 
+ .footer_social_icons{
+ padding-top:6%;
+ }
+ 
+ 
+ .footer3 ul li {
+    list-style: none;
+    font-size: 10px;
+     padding-top: 0%;
+    padding-bottom: 0%;
+}
+
+ .footer_txt1{
+ font-size:9px;
+ text-align:center;
+ line-height:18px!important;
+ }
+ 
+ .footer_logo img{
+ margin:auto;
+ display:block;
+
+ }
+ 
+ .footer_small_links{
+ float:left;
+ padding-top:1%;
+ padding-bottom:1%;
+  padding-left:6%;
+  font-size:10px!important;
+ }
+ 
+ .order_placed .box_img{
+height:80px;
+}
+ 
+ .install_app{
+ width:100%!important;
+ }
+ 
+ .download_app_home_container .pl-4{
+ padding:10px!important;
+ }
+ 
+ .download_app_home_container .form-group{
+ width:46%!important;
+ }
+ .download_app_home_container .pl-3{
+ padding:0px!important;
+ }
+ 
+ .install_app_submit_btn{
+ line-height:20px!important;
+ font-size:14px!important;
+ padding:0.6rem 0.50rem!important;
+ 
+ }
+ 
+ .footer_logo_copyright{
+ padding-left:9%;
+   
+ }
+ 
+ .bg_white_in_mobile{
+ background:#1e619c!important;
+ }
+ 
+ .bg_no .breadcrumb a  ,.bg_no .heading_category_page2_banner {
+ color:#333333!important;
+ }
+ 
+ .navbar-light .navbar-nav .active .nav-link{color: #333;}
+
+
+ .navbar-light .navbar-nav .nav-link {
+  color: #333;
+ }
+
+ 
+ .heading_home_banner {
+    font-size: 33px;
+	    padding-top: 78px!important;
+}
+ 
+ 
+ 
+ .category_page2_banner_bg{
+ background-size: 100% 100%;
+ }
+ 
+ .heading_category_page2_banner{
+ font-size:30px;
+ padding-top:2%!important;
+ }
+ 
+ .category_page2_left {
+    height: auto!important;
+	padding-top: 78px;
+}
+ 
+.category_page2 .category_page2_right_box1{
+position:relative!important;
+} 
+
+.category_page2_text1{
+display:none;
+}
+
+
+
+
+
+
+
+.partner_page_banner_bg{
+ background-size: 100% 100%!important;
+ }
+ 
+ .partner_page_left_heading{
+ font-size:30px;
+ padding-top:2%!important;
+ }
+ 
+ 
+ .partner_page_left {
+    height: auto!important;
+	padding-top:64px;
+}
+ 
+  .partner_page_left {
+    height: auto!important;
+ }
+ 
+ .order_placed{
+ padding-top:72px!important;
+ }
+ 
+ .title_booking_accepted{
+ font-size:17px;
+ }
+ 
+ /**Bootstrap mobile menu to slide from left*/
+ 
+   #slide-navbar-collapse {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: 109999!important;
+    width: 250px;
+    height: 100%;
+    background-color: #fff;
+    overflow: auto;
+	-webkit-box-shadow: 10px 0px 18px -11px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 0px 18px -11px rgba(0,0,0,0.75);
+box-shadow: 10px 0px 18px -11px rgba(0,0,0,0.75);
+
+  }
+  .menu-overlay {
+    display: none;
+    background-color: #000;
+    bottom: 0;
+    left: 0;
+    opacity: 0.5;
+    filter: alpha(opacity=50);
+    /* IE7 & 8 */
+    position: fixed;
+    right: 0;
+    top: 0;
+    z-index: 49;
+  }
+ 
+ 
+ .navbar-nav .nav-item{
+ border-bottom:1px solid #f2f2f2;
+ }
+ 
+ #slide-navbar-collapse li{
+ display: inline-block!important;
+ white-space:nowrap;
+ width:100%;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ #country-list{
+ 	position:inherit;
+	width:99.5%;
+ }
+ 
+ 
+}
+
+
+
+
+
+@media screen and (min-width:768px){
+
+  .modal-dialog {
+     max-width: 728px!important;
+}
+
+ .modal-body{
+ width:100%!important;
+ 
+height:480px;
+
+overflow-x:hidden;
+overflow-y:scroll;
+}
+
+ .modal-content{
+    width: 100%!important;
+    overflow: hidden!important;
+}
+	
+ 
+
+
+ 
+} 
